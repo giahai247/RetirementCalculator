@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">RetirementCalculatorPOC</string>
+    <string name="signup">sign up</string>
+    <string name="alreadyhaveaccount">Already have an account?</string>
+    <string name="signin">Sign in</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="letstart">Let\'s start by creating your NerdWallet account</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="validate">8 minimum characters, 1 uppercase letter, 1 numeral or special character</string>
+    <string name="or">--------Or--------</string>
+    <string name="acceptpolicy">By tapping \"Create account\", I agree to NerdWallet\'s Terms of User and Privacy Policy</string>
+    <string name="creataccount">Creat account</string>
+    <string name="pickquestion">Pick a question...</string>
+    <string name="answer">Answer</string>
+    <string name="continued">Continue</string>
+    <string name="askname">What\'s your name?</string>
+    <string name="appname">Retirement caculator</string>
+    <string name="tellyourself">Tell us a few things about yourself, and this caculator will show whether you\'re on track for the retirement you want</string>
+    <!--    <string-array name="Question">-->
+    <!--        <item>who is your first kiss?</item>-->
+    <!--        <item>what is dad's name?</item>-->
+    <!--        <item>what hospital were u born in?</item>-->
+    <!--    </string-array>-->
+    <!--        <item>what is dad's name?</item>-->
+    <!--        <item>what hospital were u born in?</item>-->
+    <string-array name="question">
+        <item>who is your first kiss?</item>
+        <item>who is your dad?</item>
+        <item>what hospital were u born in? </item>
+    </string-array>
+
+
+    <string name="text1">A common guideline is that you should aim to replace 70% of your annual pre-retirement income. You can replace it using a combination of savings, investments, Social Security and any other income sources (part-time work, a pension, rental income, etc.). The Social Security Administration website has a number of calculators to help you estimate your benefits.
+
+It’s important to consider how your expenses will change in retirement. Some, like health care and travel, are likely to increase. But many recurring expenditures will go down: You no longer need to dedicate a portion of your income to saving for retirement. You may have paid off your mortgage and other loans. And your taxes are likely to be lower — payroll taxes, which are taken out of each paycheck, will be eliminated completely.
+
+Be sure to adjust based on your retirement plans. If you know you won’t have a mortgage, for instance, maybe you plan to replace only 60%. If you want to travel every year, you might aim to replace 100% or even 110% of pre-retirement income.</string>
+    <string name="text2">First, enter your current age, income, savings balance and how much you save toward retirement each month. That’s enough to get a snapshot of where you stand.
+
+Want to customize your results? Expanding the Optional settings lets you add what you expect to receive from Social Security, adjust your spending level in retirement, change expected retirement age and more.
+
+Hover over or tap on the color bars in your results panel to get further insight into where you stand.
+
+You can adjust your inputs to see how various actions, like saving more or planning to retire later, might affect your retirement goals.</string>
+    <string name="text3">Saving for retirement is definitely a long game, but learning about the process doesn’t have to be. See our retirement planning guide to learn how to get started, how to maximize the returns on your savings and how to prioritize shorter-term goals alongside your retirement targets.</string>
+
+    <string name="string_with_link">&lt;a href="https://www.nerdwallet.com/article/investing/learn-about-ira-accounts&lt;/a></string>
+    <string name="string_with_link1">&lt;a href="https://www.nerdwallet.com/blog/investing/how-much-should-i-contribute-to-a-401k/&lt;/a></string>
+    <string name="string_with_link2">&lt;a href="https://www.nerdwallet.com/blog/investing/how-to-choose-a-financial-advisor/&lt;/a></string>
+</resources>
